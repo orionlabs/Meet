@@ -1,0 +1,5 @@
+.qtip { position:absolute; left:-28000px; top:-28000px; display:none; max-width:280px; min-width:20px; font-size:10.5px; line-height:12px; }
+.ui-tooltip-content { position:relative; padding:5px 9px; overflow:hidden; border:1px solid #000001; text-align:left; word-wrap:break-word; overflow:hidden; }
+.ui-tooltip-default .ui-tooltip-titlebar, .ui-tooltip-default .ui-tooltip-content { border-color:#F1D031; background-color:#FFFFA3; color:#555; }
+#qtip-overlay.blurs { cursor:pointer; }
+.tooltip{ border:1px solid #000; height:200px; width:200px}
